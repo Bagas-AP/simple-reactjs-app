@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "azka",
+	"email": "azka@test.com",
+	"phone": "123456789",
+	"city": "lampung",
+	"state": "sumatra",
+	"country": "Indonesia",
+	"organization": "Dicoding",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Products Rarely"
+}

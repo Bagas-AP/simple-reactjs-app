@@ -1,0 +1,12 @@
+{
+	"id": 3,
+	"name": "rakan",
+	"email": "rakan@test.com",
+	"phone": "123412345",
+	"city": "tangerang",
+	"state": "BSD",
+	"country": "Indoensia",
+	"organization": "Bangkit",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Lots of Products in general"
+}

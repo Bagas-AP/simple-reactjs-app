@@ -1,0 +1,12 @@
+{
+	"id": 4,
+	"name": "bintang",
+	"email": "bintang@test.com",
+	"phone": "123456789",
+	"city": "bogor",
+	"state": "kabupaten",
+	"country": "Indoensia",
+	"organization": "kalbe",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Lots of Products in general"
+}
